@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "username": "testuser",
+    "password": "$2b$10$FU0E7tOgulk.mmUs0nOyFO2e778acSuIepYPZL3sBSXhJ/IEkJSJm",
+    "role": "learner"
+  },
+  {
+    "id": 2,
+    "username": "akanksha rajput",
+    "password": "$2b$10$EuULI8P3gYkrThBJQPIJZeoC.AlqE46QliM.SzEWUo2qQoVvdzJFm",
+    "role": "learner"
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "password": "$2b$10$TEeaM/fJRahL2hh5TDqAeuEWBAgMiN9CKHY.9AJ45JqEzVyL0v7Vy",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "username": "vanshika",
+    "password": "$2b$10$iBqCO2Lt8hdFahLz5YiKh.viMLRj1VgciPvUUmtZ6DBi9q1.PeeV.",
+    "role": "learner"
+  },
+  {
+    "id": 5,
+    "username": "aryan",
+    "password": "$2b$10$BIPP9RqCwrhVlFXL3SgRResB.pTZuv7G619IzgBbyteyuRsF/NN5i",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "username": "ranaji",
+    "password": "$2b$10$EdwDURQb2xUPMo2Z5d8h/eGwLHn1LOcCX4KqVv4m1qiVpFm2xTXK6",
+    "role": "educator"
+  },
+  {
+    "id": 7,
+    "username": "abc",
+    "password": "$2b$10$je/w5A4vfuHB.gDD7aBXtOgBmU7ts7J1NtrE8ygHldiLM80e2rpNq",
+    "role": "learner"
+  },
+  {
+    "id": 8,
+    "username": "gurleen",
+    "password": "$2b$10$e/FDtnb5HoJjwp2Mo.heo.rQycgTfnzuDWOBoUF4gmmAZLAfH20Yu",
+    "role": "admin"
+  },
+  {
+    "id": 9,
+    "username": "mehak",
+    "password": "$2b$10$m4tMJs4VMGFmDQOjNhlXAOLAtnm4tvPR0qhQvdY1eMcdO6JQqOlxK",
+    "role": "learner"
+  },
+  {
+    "id": 10,
+    "username": "rana ",
+    "password": "$2b$10$wwWBh6e3SveKXSBZQ77AEONylCB89WH.1jXhN8ILRXc5y1IJuh8gy",
+    "role": "educator"
+  },
+  {
+    "id": 11,
+    "username": "student",
+    "password": "$2b$10$jUqf6ZNJ97yu.dlsQ8yxjeQC/wgr61PHzx/o1WkwehWYY/6slBgNW",
+    "role": "learner"
+  },
+  {
+    "id": 12,
+    "username": "teacher",
+    "password": "$2b$10$BGHlKidp9QLHs6BTQZ6Cs.wKcok3Cmf/ukDtwSi2x7Pdu1TS4In.G",
+    "role": "educator"
+  },
+  {
+    "id": 13,
+    "username": "gorang",
+    "password": "$2b$10$iR0X4i1pgsfqv73RmHwgveRGZlczUaavN/AxZWWJcBS7ZUiHhrAgW",
+    "role": "admin"
+  }
+]
